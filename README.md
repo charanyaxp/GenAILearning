@@ -1,2 +1,1 @@
-# testllm
-test git repo
+# GenAI Learning
