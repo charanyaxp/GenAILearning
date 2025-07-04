@@ -1,0 +1,9 @@
+langgraph
+langgraph-cli[inmem]
+langchain
+langchain-core
+langchain[google-vertexai]
+langchain-community
+langchainhub 
+sqlalchemy
+mysql-connector-python
