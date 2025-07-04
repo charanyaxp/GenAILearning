@@ -1,7 +1,0 @@
-{
-    "graphs":{
-        "notifagent":"./agents/notification_agent.py:agent"
-
-    },
-    "dependencies": ["."]
-}
