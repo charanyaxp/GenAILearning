@@ -1,2 +1,1 @@
-# testllm
-test git repo
+This agent can query the sqldb for student information and send email/ telegram notification to the students. Telegram group chat id is specified where the bot is the admin and has access to messages. For simulating the email delivery, MailTrap delivery platform is used.
